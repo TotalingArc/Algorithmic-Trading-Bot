@@ -3,6 +3,7 @@ const secret = "3iLGT133vQnkFePqaGoYHU7nGtcY";
 const key = "account-XCa2X8uBDIBwfjWNDOBT";
 const restClient = new GeminiAPI({key,secret, sandbox:true});
 
+// Module, js calls.
 module.exports = {
 
   marketBuyBitcoin:function(){
