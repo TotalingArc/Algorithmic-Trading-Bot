@@ -1,4 +1,4 @@
-const CCAPIKey = "9372ee7b2e6bd4fa91f0822336bc293d5d580bffcf11c7c958568627c6ce8baf";
+const CCAPIKey = "";
 const CryptoCompareAPI = require("cryptocompare");
 CryptoCompareAPI.setApiKey(CCAPIKey);
 
