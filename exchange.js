@@ -1,6 +1,6 @@
 const GeminiAPI = require("gemini-api").default;
-const secret = "3iLGT133vQnkFePqaGoYHU7nGtcY";
-const key = "account-XCa2X8uBDIBwfjWNDOBT";
+const secret = "";
+const key = "";
 const restClient = new GeminiAPI({key,secret, sandbox:true});
 
 // Module, js calls.
