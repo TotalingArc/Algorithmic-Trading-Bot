@@ -1,3 +1,4 @@
+// call to Gemini
 const GeminiAPI = require("gemini-api").default;
 const secret = "";
 const key = "";
