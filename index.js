@@ -1,3 +1,4 @@
+// call to gemini
 global.fetch = require("node-fetch");
 const indicators = require("./indicators.js");
 const exchange = require("./exchange.js");
