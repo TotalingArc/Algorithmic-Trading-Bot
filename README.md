@@ -67,4 +67,4 @@ This project implements a simple trading bot for Bitcoin (BTC) using the Gemini 
 To run the trading bot, execute the following command:
 
 ```bash
-node main.js
+node index.js
